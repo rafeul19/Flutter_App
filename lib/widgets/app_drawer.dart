@@ -9,20 +9,20 @@ class AppDrawer extends StatelessWidget {
       child: Column(
         children: <Widget>[
           AppBar(
-            title: Text('Hello Friends!'),
+            title: Text('Welcome!'),
             automaticallyImplyLeading: false,
           ),
           Divider(),
           ListTile(
             leading: Icon(Icons.shop),
-            title: Text('Shop'),
+            title: Text('Our Shop'),
             onTap: () {
               Navigator.of(context).pushReplacementNamed('/');
             },
           ),
           ListTile(
             leading: Icon(Icons.done),
-            title: Text('Orders'),
+            title: Text('Make Orders'),
             onTap: () {
               Navigator.of(context).pushReplacementNamed(OrderScreen.routeName);
             },
