@@ -13,7 +13,8 @@ Application has some features already implemented:
 - [X] TimeTravel using
 
 ## Screenshots
-|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278674.png" width="300">|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278677.png" width="300">|
+|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278674.png" width="300">|
+|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278677.png" width="300">|
 
 
 |<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278687.png" width="300">|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278693.png" width="300">|
