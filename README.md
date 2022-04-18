@@ -14,9 +14,5 @@ Application has some features already implemented:
 
 ## Screenshots
 |<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278674.png" width="300">|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278677.png" width="300">|
-![Home Screenshot](https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278674.png)
-![ Demo1](https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278677.png)
-![ Demo2](https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278687.png)
-![ Demo3](https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278693.png)
-
+|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278687.png" width="300">|<img src="https://github.com/rafeul19/Flutter_App/blob/TOPONE/Screenshot/Screenshot_1650278693.png" width="300">|
 
